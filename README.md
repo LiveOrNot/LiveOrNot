@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiveOrNot, a programmer who jumps out from a central enterprise to survive in a private enterprise
-- 👀 I’m interested in C#, Rust, Iot
+- 👀 I’m interested in C#, Docker, K8S, Flutter, IOT, Rust
 - 🌱 I’m currently learning Rust
 - 📫 If you want to reach me, please send to liveornot@126.com
 
